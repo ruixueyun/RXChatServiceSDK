@@ -1,0 +1,6 @@
+framework module RXChatServiceSDK {
+  umbrella header "RXChatServiceSDK.h"
+
+  export *
+  module * { export * }
+}
