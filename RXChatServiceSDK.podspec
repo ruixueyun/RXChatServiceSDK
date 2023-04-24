@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RXChatServiceSDK'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'ruixue chatservice framework.'
 
 # This description is used to generate tags and improve searc results.
